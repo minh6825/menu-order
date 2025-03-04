@@ -12,15 +12,15 @@ export default function BubbleTeaMenu() {
         <div className="w-full">
           <div>
             <div className="flex items-center">
-              <h2 className="font-bold text-lg uppercase">{title}</h2>
-              {size && <span className="ml-auto font-bold">SIZE {size}</span>}
+              <h2 className="font-bold text-lg max-md:text-sm uppercase">{title}</h2>
+              {size && <span className="ml-auto font-bold max-md:text-sm">SIZE {size}</span>}
             </div>
           </div>
-          <div className="space-y-2">
+          <div className="space-y-2 max-md:mt-4">
             {items.map(({ name, price }: any) => (
-              <div key={name} className="flex justify-between">
+              <div key={name} className="flex justify-between max-md:text-sm">
                 <span>{name}</span>
-                {price && <span>{price}</span>}
+                {price && <span>{price} k</span>}
               </div>
             ))}
           </div>
@@ -80,7 +80,7 @@ export default function BubbleTeaMenu() {
       </div>
 
       <footer className="container mx-auto p-4 text-center text-sm text-gray-600 border-t">
-        <p>ĐỒ UỐNG DUNG HUY</p>
+        <p>TIỆM TRÀ SỮA</p>
       </footer>
     </div>
   )
