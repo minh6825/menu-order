@@ -1,0 +1,95 @@
+[
+    {
+      "title": "Trà Kem Phô Mai",
+      "size": "LỚN",
+      "items": [
+        { "name": "Lục Trà Kem Phô Mai", "price": 35 },
+        { "name": "Hồng Trà Kem Phô Mai", "price": 35 },
+        { "name": "Socola Kem Phô Mai", "price": 35 },
+        { "name": "Dâu Tằm Kem Phô Mai", "price": 35 }
+      ],
+      "logo": "/1.jpg"
+    },
+    {
+      "title": "Trà Sữa",
+      "size": "LỚN",
+      "items": [
+        { "name": "TS Socola Hoàng Kim", "price": 35 },
+        { "name": "TS Oolong Hoàng Kim", "price": 35 },
+        { "name": "Trà Sữa Hoàng Gia Kem", "price": 35 },
+        { "name": "Trà Sữa Quốc Dân", "price": 35 },
+        { "name": "Trà Sữa Bubble Chew", "price": 35 },
+        { "name": "Trà Sữa Bá Vương", "price": 35 },
+        { "name": "Trà Sữa Bạch Kim", "price": 35 },
+        { "name": "Sữa Tươi TC Đường Đen", "price": 35 }
+      ],
+      "logo": "/2.jpg"
+    },
+    {
+      "title": "Trà Trái Cây",
+      "size": "LỚN",
+      "items": [
+        { "name": "LONGA - Trà Thanh Nhiệt", "price": 30 },
+        { "name": "Hồng Trà Tắc Hoàng Kim", "price": 30 },
+        { "name": "Trà Dứa Nhiệt Đới", "price": 30 },
+        { "name": "Trà Vải Vị Nhài", "price": 30 },
+        { "name": "Trà Dâu Tằm Pha Lê", "price": 30 },
+        { "name": "Trà Cam Quýt", "price": 35 }
+      ],
+      "logo": "/3.jpg"
+    },
+    {
+      "title": "Sữa Chua Trái Cây",
+      "size": "LỚN",
+      "items": [
+        { "name": "Cam Sữa Chua", "price": 35 },
+        { "name": "Việt Quất Sữa Chua", "price": 35 }
+      ],
+      "logo": "/4.jpg"
+    },
+    {
+      "title": "Cà Phê",
+      "items": [
+        { "name": "Đen Café" },
+        { "name": "Bạc Xỉu" },
+        { "name": "Dừa Café" },
+        { "name": "Nâu Café", "price": "25K" }
+      ],
+      "logo": "/5.jpg"
+    },
+    {
+      "title": "Matcha Nhật",
+      "size": "LỚN",
+      "items": [
+        { "name": "Matcha Sữa Tươi", "price": 35 },
+        { "name": "Matcha Café Sữa Tươi", "price": 35 }
+      ],
+      "logo": "/6.jpg"
+    },
+    {
+      "title": "Đá Xay",
+      "size": "M",
+      "items": [
+        { "name": "Cookie Đá Xay", "price": 30 },
+        { "name": "Matcha Đá Xay", "price": 30 },
+        { "name": "Cà Phê Đá Xay", "price": 30 }
+      ],
+      "logo": "/7.jpg"
+    },
+    {
+      "title": "Thêm topping thêm ngon",
+      "items": [
+        { "name": "Trân Châu Hoàng Kim" },
+        { "name": "Pudding" },
+        { "name": "Khoai Môn" },
+        { "name": "Thạch Dừa" },
+        { "name": "Thạch Cà Phê" },
+        { "name": "Trân Châu Đen" },
+        { "name": "Đậu Đỏ" },
+        { "name": "Sương Sáo" },
+        { "name": "Kem Phô Mai" },
+        { "name": "COMBO 2 TOPPING 8K" }
+      ],
+      "logo": "/8.jpg"
+    }
+  ]
